@@ -3,5 +3,7 @@
 using namespace std;
 class BaseSocket
 {
-  
+public:
+
+privite:
 }
