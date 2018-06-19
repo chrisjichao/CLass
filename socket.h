@@ -5,5 +5,5 @@ class BaseSocket
 {
 public:
 
-privite:
+private:
 }
